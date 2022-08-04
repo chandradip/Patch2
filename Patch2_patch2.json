@@ -1,6 +1,6 @@
 {
 "load_balancing": {
-    "algorithm": "Round Robin",
+    "algorithm": "Weighted Round Robin",
     "failover_method": "Load Balance",
     "persistence_idle_timeout": 600,
     "persistence_method": "Source IP",
